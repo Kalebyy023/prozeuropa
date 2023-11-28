@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background: linear-gradient(to left, #faebd7, #c9a77b);
+  }
+img{
+    border-radius: 10px;
+    margin-left: 10px;
+    width: 900px;
+    margin-top: 10px;
+}
+.box {
+    width: 80%;
+    background: linear-gradient(to left, #e6b779, #a98c65, #e3b87f);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 20px;
+    max-width:1000px;
+    position: relative;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+button{
+    width: 100px;
+}
